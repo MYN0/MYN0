@@ -1,5 +1,5 @@
 
-#### A self tought developer.
+#### A self taught developer.
 
 [![Downloads](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://www.npmjs.com/package/@myno_21/time)
 
